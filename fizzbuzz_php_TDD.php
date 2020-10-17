@@ -1,4 +1,5 @@
 <?php
+// Probando para hacer un PR
 $max_num = 100;
 
     function fizz_buzz($n){
